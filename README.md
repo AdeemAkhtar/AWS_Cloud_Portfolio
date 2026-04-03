@@ -1,7 +1,7 @@
 # AWS_Portfolio
 All the projects that i have completed on AWS.
 
-## Project 1: Static Web Hosting on Amazon S3.
+## Project 1: Static Web Hosting on Amazon S3 [Video_Link](https://drive.google.com/file/d/1GkQ6ABX6ifVz9uYXN_te0txpFTtz4p4L/view?usp=sharing)
 * Configured an Amazon S3 bucket to host a static website, including HTML, CSS, and media assets.
 * Enabled static website hosting and set up index and error documents via the AWS Management Console.
 * Managed access using bucket policies to allow public read permissions while maintaining secure configuration practices.
