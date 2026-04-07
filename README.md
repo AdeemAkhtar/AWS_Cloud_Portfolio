@@ -39,5 +39,4 @@ Services Used:
 * Internet Gateway
 * Route table
 * Security Group
-=======
->>>>>>> a163deaa7c1e63fbfa6d25d2480acabab14187f0
+
