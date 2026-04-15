@@ -2,7 +2,7 @@
 All the projects that i have completed on AWS.
 
 ## [Project (Part 1): Static Web Hosting on Amazon S3 (Video_Link)](https://drive.google.com/file/d/1GkQ6ABX6ifVz9uYXN_te0txpFTtz4p4L/view?usp=sharing)
-![<# alt text #>](1_AWS_Static_Web_Hosting_on_Amazon_S3/architecture.png "Screenshot" =250x250)
+![<# alt text #>](1_AWS_Static_Web_Hosting_on_Amazon_S3/architecture.png "Screenshot" width="250" height="250")
 
 * [(Video_Link)](https://drive.google.com/file/d/1GkQ6ABX6ifVz9uYXN_te0txpFTtz4p4L/view?usp=sharing)
 
