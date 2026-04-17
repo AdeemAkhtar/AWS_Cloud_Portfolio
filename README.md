@@ -1,7 +1,8 @@
 # AWS_Portfolio
-All the projects that i have completed on AWS.
+All the projects that I have completed on AWS.
 
 ## [Project (Part 1): Static Web Hosting on Amazon S3 (Video_Link)](https://drive.google.com/file/d/1GkQ6ABX6ifVz9uYXN_te0txpFTtz4p4L/view?usp=sharing)
+
 ![<# alt text #>](1_AWS_Static_Web_Hosting_on_Amazon_S3/architecture.png "Screenshot")
 
 * [(Video_Link)](https://drive.google.com/file/d/1GkQ6ABX6ifVz9uYXN_te0txpFTtz4p4L/view?usp=sharing)
@@ -16,7 +17,9 @@ All the projects that i have completed on AWS.
 ---
 
 ## Project (Part 2): Cloud Security with IAM
+
 ![<# alt text #>](2_AWS_Cloud_Security_With_IAM/Screenshot%202026-04-05%20at%209.34.09%E2%80%AFpm.png "Screenshot")
+
 ### Tools, concepts and Services I used were:
 1. EC2 
 2. IAM
@@ -75,6 +78,7 @@ All the projects that i have completed on AWS.
 ---
 
 ## [Project (Part 6): Launching Resources in VPC (Video_Link)](https://drive.google.com/file/d/1W7O8szBykElY5jTCEkJ3N9KmKjyRk6SD/view?usp=drive_link)
+
 ![<# alt text #>](6_AWS_Launching_Resources_in_VPC/Architecture.png "Screenshot")
 
 * (Video_Link)](https://drive.google.com/file/d/1W7O8szBykElY5jTCEkJ3N9KmKjyRk6SD/view?usp=drive_link)
@@ -91,6 +95,7 @@ All the projects that i have completed on AWS.
 ---
 
 ## [Project (Part 7): Launching Resources in VPC (Video_Link)](https://drive.google.com/file/d/1NNJqZXGSnFow_rLLjoOiDC6TmALAcRyz/view?usp=sharing)
+
 ![<# alt text #>](7_AWS_Testing%20VPC%20Connectivity/Architecture.png "Screenshot")
 
 (Video_Link)](https://drive.google.com/file/d/1NNJqZXGSnFow_rLLjoOiDC6TmALAcRyz/view?usp=sharing)
@@ -106,3 +111,20 @@ Services Used:
 
 ---
 
+
+## [Project (Part 8): VPC Peering (Video_Link)](https://drive.google.com/file/d/1_8hTNr5CoVXkbJEhPIkr6gxRMYO2885M/view?usp=sharing)
+
+![<# alt text #>](8_AWS_VPC_Peering/Architecture.png "Screenshot")
+
+(Video_Link)](https://drive.google.com/file/d/1_8hTNr5CoVXkbJEhPIkr6gxRMYO2885M/view?usp=sharing)
+Services Used:
+* VPC
+* Public Subnets
+* Internet Gateway
+* Route tables
+* Security Groups
+* Network Access Control Lists
+* EC2
+* SSH
+* Elastic IP
+* Peering Connection
