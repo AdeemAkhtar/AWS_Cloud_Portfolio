@@ -1,4 +1,4 @@
-# AWS_Portfolio
+# AWS_Cloud_Networking_Portfolio
 All the projects that I have completed on AWS.
 
 ## [Project (Part 1): Static Web Hosting on Amazon S3 (Video_Link)](https://drive.google.com/file/d/1GkQ6ABX6ifVz9uYXN_te0txpFTtz4p4L/view?usp=sharing)
