@@ -134,7 +134,7 @@ All the projects that I have completed on AWS.
 
 ## [Project (Part 9): VPC Monitoring (Video_Link)](https://drive.google.com/file/d/1lhaVYq6rNTD3nfd075n1RYYHYu-Haetr/view?usp=drive_link)
 
-
+![<# alt text #>](9_AWS_VPC_Monitoring_with_CloudWatch_and_FlogLogs/Screenshot%202026-04-18%20at%2011.32.02%E2%80%AFpm.png "Screenshot")
 
 [(Video_Link: https://drive.google.com/file/d/1lhaVYq6rNTD3nfd075n1RYYHYu-Haetr/view?usp=drive_link )](https://drive.google.com/file/d/1lhaVYq6rNTD3nfd075n1RYYHYu-Haetr/view?usp=drive_link)
 
