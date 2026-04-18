@@ -112,7 +112,6 @@ All the projects that I have completed on AWS.
 
 ---
 
-
 ## [Project (Part 8): VPC Peering (Video_Link)](https://drive.google.com/file/d/1_8hTNr5CoVXkbJEhPIkr6gxRMYO2885M/view?usp=sharing)
 
 ![<# alt text #>](8_AWS_VPC_Peering/Architecture.png "Screenshot")
@@ -120,6 +119,29 @@ All the projects that I have completed on AWS.
 [(Video_Link: https://drive.google.com/file/d/1_8hTNr5CoVXkbJEhPIkr6gxRMYO2885M/view?usp=sharing )](https://drive.google.com/file/d/1_8hTNr5CoVXkbJEhPIkr6gxRMYO2885M/view?usp=sharing)
 
 ### Services Used:
+* VPC
+* Public Subnets
+* Internet Gateway
+* Route tables
+* Security Groups
+* Network Access Control Lists
+* EC2
+* SSH
+* Elastic IP
+* Peering Connection
+
+---
+
+## [Project (Part 9): VPC Monitoring (Video_Link)](https://drive.google.com/file/d/1lhaVYq6rNTD3nfd075n1RYYHYu-Haetr/view?usp=drive_link)
+
+
+
+[(Video_Link: https://drive.google.com/file/d/1lhaVYq6rNTD3nfd075n1RYYHYu-Haetr/view?usp=drive_link )](https://drive.google.com/file/d/1lhaVYq6rNTD3nfd075n1RYYHYu-Haetr/view?usp=drive_link)
+
+### Services Used:
+* CloudWatch
+* FlowLogs
+* IAM
 * VPC
 * Public Subnets
 * Internet Gateway
