@@ -10,7 +10,7 @@
 ---
 
 ## VPC Monitoring with Flow Logs
-![<# alt text #>](Screenshot%202026-04-18%20at%2011.32.02%E2%80%AFpm.png "Screenshot")
+![<# alt text #>](Architecture.png "Screenshot")
 ![Image](http://learn.nextwork.org/satisfied_silver_bold_rose_apple/uploads/aws-networks-monitoring_3e1e79a1)
 
 ---
